@@ -19,7 +19,7 @@
       "sizes": "512x512"
     }
   ],
-  "homepage_url": "https://roxyjewellery.github.io/roxy-jewellery/",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
