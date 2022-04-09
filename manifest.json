@@ -1,8 +1,25 @@
 {
   "short_name": "Roxy Jewellery",
   "name": "Roxy Jewellery. Polymer clay art",
-  "icons": [],
-  "start_url": ".",
+  "description": "Roxy Jewellery online gallery. Polymer clay art. Homemade jewellery. Earrings and more...",
+  "icons": [
+    {
+      "src": "roxyIcon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "roxyIcon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "roxyIcon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
