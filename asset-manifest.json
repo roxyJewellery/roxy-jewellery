@@ -1,14 +1,20 @@
 {
   "files": {
     "main.css": "/roxy-jewellery/static/css/main.fed806ac.css",
-    "main.js": "/roxy-jewellery/static/js/main.cff4f8e1.js",
+    "main.js": "/roxy-jewellery/static/js/main.3198e4f7.js",
     "static/media/car3.jpg": "/roxy-jewellery/static/media/car3.c298290120bd4f7fd600.jpg",
+    "static/media/41.jpg": "/roxy-jewellery/static/media/41.bbbdd00219987718afc5.jpg",
     "static/media/car2.jpg": "/roxy-jewellery/static/media/car2.cf0888f44427041f9c09.jpg",
+    "static/media/37.jpg": "/roxy-jewellery/static/media/37.f7b144d0f139ac727034.jpg",
+    "static/media/38.jpg": "/roxy-jewellery/static/media/38.72cfc685a1a63174f9bf.jpg",
     "static/media/33.jpg": "/roxy-jewellery/static/media/33.187e00f155e78ba4cdf8.jpg",
+    "static/media/39.jpg": "/roxy-jewellery/static/media/39.a8608e2aef4950ae5167.jpg",
     "static/media/34.jpg": "/roxy-jewellery/static/media/34.55ba62f140289d518dfb.jpg",
+    "static/media/40.jpg": "/roxy-jewellery/static/media/40.cac84b8f296cb7063c6a.jpg",
     "static/media/36.jpg": "/roxy-jewellery/static/media/36.951d3412a7d57e3bd553.jpg",
     "static/media/28.jpg": "/roxy-jewellery/static/media/28.4f06f659f9861bad0bd4.jpg",
     "static/media/35.jpg": "/roxy-jewellery/static/media/35.279a6476e2dd087641cc.jpg",
+    "static/media/42.jpg": "/roxy-jewellery/static/media/42.917c7f1e6a2450542c0c.jpg",
     "static/media/aboutCar1.jpg": "/roxy-jewellery/static/media/aboutCar1.13fda383af64c88bad3b.jpg",
     "static/media/32.jpg": "/roxy-jewellery/static/media/32.589b9528b08913fa76d7.jpg",
     "static/media/31.png": "/roxy-jewellery/static/media/31.448d3b0b1a7e00aafd62.png",
@@ -35,20 +41,20 @@
     "static/media/11.jpg": "/roxy-jewellery/static/media/11.7ebe48a464b8f1cebdbb.jpg",
     "static/media/16.jpg": "/roxy-jewellery/static/media/16.1106818cee366bac8068.jpg",
     "static/media/14.jpg": "/roxy-jewellery/static/media/14.603b70d63023744486a1.jpg",
+    "static/media/2.jpg": "/roxy-jewellery/static/media/2.dacb80be573a534c7a9c.jpg",
     "static/media/6.jpg": "/roxy-jewellery/static/media/6.62dbcc3200b79602c4d4.jpg",
     "static/media/10.jpg": "/roxy-jewellery/static/media/10.4f19969be6d5426bde12.jpg",
     "static/media/17.jpg": "/roxy-jewellery/static/media/17.b4c64ad614b788feb7be.jpg",
+    "static/media/1-1.jpg": "/roxy-jewellery/static/media/1-1.0402283d583fa300bf3c.jpg",
     "static/media/5.jpg": "/roxy-jewellery/static/media/5.21263466e36666f9a2d3.jpg",
-    "static/media/2.webp": "/roxy-jewellery/static/media/2.12d3f99f8bbe561ea262.webp",
-    "static/media/1-1.webp": "/roxy-jewellery/static/media/1-1.16f57480630b64c6cd07.webp",
-    "static/media/7.webp": "/roxy-jewellery/static/media/7.dce28be497b2f47488b6.webp",
-    "static/media/8.webp": "/roxy-jewellery/static/media/8.b028fd6ea9e5cdec062a.webp",
+    "static/media/7.jpg": "/roxy-jewellery/static/media/7.cfd5ad852dd3a3050b35.jpg",
+    "static/media/8.jpg": "/roxy-jewellery/static/media/8.0f5d2cc70c8d6021b1de.jpg",
     "index.html": "/roxy-jewellery/index.html",
     "main.fed806ac.css.map": "/roxy-jewellery/static/css/main.fed806ac.css.map",
-    "main.cff4f8e1.js.map": "/roxy-jewellery/static/js/main.cff4f8e1.js.map"
+    "main.3198e4f7.js.map": "/roxy-jewellery/static/js/main.3198e4f7.js.map"
   },
   "entrypoints": [
     "static/css/main.fed806ac.css",
-    "static/js/main.cff4f8e1.js"
+    "static/js/main.3198e4f7.js"
   ]
 }
