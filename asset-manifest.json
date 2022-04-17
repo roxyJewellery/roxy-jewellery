@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/roxy-jewellery/static/css/main.0c2751ab.css",
-    "main.js": "/roxy-jewellery/static/js/main.fbeed95d.js",
+    "main.js": "/roxy-jewellery/static/js/main.211f7f0d.js",
     "static/media/car3.jpg": "/roxy-jewellery/static/media/car3.c298290120bd4f7fd600.jpg",
     "static/media/41.jpg": "/roxy-jewellery/static/media/41.bbbdd00219987718afc5.jpg",
     "static/media/car2.jpg": "/roxy-jewellery/static/media/car2.cf0888f44427041f9c09.jpg",
@@ -51,10 +51,10 @@
     "static/media/8.jpg": "/roxy-jewellery/static/media/8.0f5d2cc70c8d6021b1de.jpg",
     "index.html": "/roxy-jewellery/index.html",
     "main.0c2751ab.css.map": "/roxy-jewellery/static/css/main.0c2751ab.css.map",
-    "main.fbeed95d.js.map": "/roxy-jewellery/static/js/main.fbeed95d.js.map"
+    "main.211f7f0d.js.map": "/roxy-jewellery/static/js/main.211f7f0d.js.map"
   },
   "entrypoints": [
     "static/css/main.0c2751ab.css",
-    "static/js/main.fbeed95d.js"
+    "static/js/main.211f7f0d.js"
   ]
 }
